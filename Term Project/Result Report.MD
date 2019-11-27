@@ -1,8 +1,6 @@
 Term Project 1.
 Exploitation vs Exploration in the Huffman Encoding
 
-2017117876 김승현
-
 Ⅰ. 프로젝트 결과
 
 Ⅱ. 프로젝트 목적, 접근방법 및 세부결과
